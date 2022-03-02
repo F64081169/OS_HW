@@ -1,0 +1,6 @@
+TLB Replacement Policy: LRU
+Page Replacement Policy: FIFO
+Frame Allocation Policy: LOCAL
+Number of Processes: 2	
+Number of Virtual Page: 128
+Number of Physical Frame: 64

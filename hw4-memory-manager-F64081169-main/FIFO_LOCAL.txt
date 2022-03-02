@@ -1,0 +1,548 @@
+Process A, TLB Miss, Page Fault, 0, Evict -1 of Process A to -1, 71<<-1
+Process A, TLB Hit, 71=>0
+Process A, TLB Miss, Page Fault, 1, Evict -1 of Process A to -1, 58<<-1
+Process A, TLB Hit, 58=>1
+Process A, TLB Miss, Page Fault, 2, Evict -1 of Process A to -1, 89<<-1
+Process A, TLB Hit, 89=>2
+Process A, TLB Miss, Page Fault, 3, Evict -1 of Process A to -1, 91<<-1
+Process A, TLB Hit, 91=>3
+Process A, TLB Miss, Page Fault, 4, Evict -1 of Process A to -1, 11<<-1
+Process A, TLB Hit, 11=>4
+Process A, TLB Miss, Page Fault, 5, Evict -1 of Process A to -1, 80<<-1
+Process A, TLB Hit, 80=>5
+Process A, TLB Miss, Page Fault, 6, Evict -1 of Process A to -1, 62<<-1
+Process A, TLB Hit, 62=>6
+Process A, TLB Miss, Page Fault, 7, Evict -1 of Process A to -1, 18<<-1
+Process A, TLB Hit, 18=>7
+Process A, TLB Miss, Page Fault, 8, Evict -1 of Process A to -1, 65<<-1
+Process A, TLB Hit, 65=>8
+Process A, TLB Miss, Page Fault, 9, Evict -1 of Process A to -1, 53<<-1
+Process A, TLB Hit, 53=>9
+Process A, TLB Miss, Page Fault, 10, Evict -1 of Process A to -1, 33<<-1
+Process A, TLB Hit, 33=>10
+Process A, TLB Miss, Page Fault, 11, Evict -1 of Process A to -1, 16<<-1
+Process A, TLB Hit, 16=>11
+Process A, TLB Miss, Page Fault, 12, Evict -1 of Process A to -1, 68<<-1
+Process A, TLB Hit, 68=>12
+Process A, TLB Miss, Page Fault, 13, Evict -1 of Process A to -1, 54<<-1
+Process A, TLB Hit, 54=>13
+Process A, TLB Miss, Page Fault, 14, Evict -1 of Process A to -1, 34<<-1
+Process A, TLB Hit, 34=>14
+Process A, TLB Miss, Page Fault, 15, Evict -1 of Process A to -1, 32<<-1
+Process A, TLB Hit, 32=>15
+Process A, TLB Hit, 16=>11
+Process A, TLB Miss, Page Fault, 16, Evict -1 of Process A to -1, 93<<-1
+Process A, TLB Hit, 93=>16
+Process A, TLB Miss, Page Fault, 17, Evict -1 of Process A to -1, 4<<-1
+Process A, TLB Hit, 4=>17
+Process A, TLB Miss, Page Fault, 18, Evict -1 of Process A to -1, 44<<-1
+Process A, TLB Hit, 44=>18
+Process A, TLB Miss, Page Fault, 19, Evict -1 of Process A to -1, 10<<-1
+Process A, TLB Hit, 10=>19
+Process A, TLB Miss, Page Fault, 20, Evict -1 of Process A to -1, 87<<-1
+Process A, TLB Hit, 87=>20
+Process A, TLB Miss, Page Fault, 21, Evict -1 of Process A to -1, 88<<-1
+Process A, TLB Hit, 88=>21
+Process A, TLB Hit, 71=>0
+Process A, TLB Miss, Page Fault, 22, Evict -1 of Process A to -1, 36<<-1
+Process A, TLB Hit, 36=>22
+Process A, TLB Miss, Page Fault, 23, Evict -1 of Process A to -1, 3<<-1
+Process A, TLB Hit, 3=>23
+Process A, TLB Miss, Page Fault, 24, Evict -1 of Process A to -1, 96<<-1
+Process A, TLB Hit, 96=>24
+Process A, TLB Miss, Page Fault, 25, Evict -1 of Process A to -1, 23<<-1
+Process A, TLB Hit, 23=>25
+Process A, TLB Hit, 11=>4
+Process A, TLB Miss, Page Fault, 26, Evict -1 of Process A to -1, 81<<-1
+Process A, TLB Hit, 81=>26
+Process A, TLB Miss, Page Fault, 27, Evict -1 of Process A to -1, 61<<-1
+Process A, TLB Hit, 61=>27
+Process A, TLB Miss, Page Fault, 28, Evict -1 of Process A to -1, 60<<-1
+Process A, TLB Hit, 60=>28
+Process A, TLB Miss, Page Fault, 29, Evict -1 of Process A to -1, 30<<-1
+Process A, TLB Hit, 30=>29
+Process A, TLB Hit, 33=>10
+Process A, TLB Hit, 18=>7
+Process B, TLB Miss, Page Fault, 30, Evict -1 of Process B to -1, 53<<-1
+Process B, TLB Hit, 53=>30
+Process B, TLB Miss, Page Fault, 31, Evict -1 of Process B to -1, 43<<-1
+Process B, TLB Hit, 43=>31
+Process B, TLB Miss, Page Fault, 32, Evict -1 of Process B to -1, 97<<-1
+Process B, TLB Hit, 97=>32
+Process B, TLB Miss, Page Fault, 33, Evict -1 of Process B to -1, 34<<-1
+Process B, TLB Hit, 34=>33
+Process B, TLB Miss, Page Fault, 34, Evict -1 of Process B to -1, 98<<-1
+Process B, TLB Hit, 98=>34
+Process B, TLB Miss, Page Fault, 35, Evict -1 of Process B to -1, 75<<-1
+Process B, TLB Hit, 75=>35
+Process B, TLB Miss, Page Fault, 36, Evict -1 of Process B to -1, 22<<-1
+Process B, TLB Hit, 22=>36
+Process B, TLB Miss, Page Fault, 37, Evict -1 of Process B to -1, 58<<-1
+Process B, TLB Hit, 58=>37
+Process B, TLB Miss, Page Fault, 38, Evict -1 of Process B to -1, 79<<-1
+Process B, TLB Hit, 79=>38
+Process B, TLB Miss, Page Fault, 39, Evict -1 of Process B to -1, 87<<-1
+Process B, TLB Hit, 87=>39
+Process B, TLB Miss, Page Fault, 40, Evict -1 of Process B to -1, 67<<-1
+Process B, TLB Hit, 67=>40
+Process B, TLB Miss, Page Fault, 41, Evict -1 of Process B to -1, 20<<-1
+Process B, TLB Hit, 20=>41
+Process B, TLB Miss, Page Fault, 42, Evict -1 of Process B to -1, 71<<-1
+Process B, TLB Hit, 71=>42
+Process B, TLB Miss, Page Fault, 43, Evict -1 of Process B to -1, 55<<-1
+Process B, TLB Hit, 55=>43
+Process B, TLB Miss, Page Fault, 44, Evict -1 of Process B to -1, 83<<-1
+Process B, TLB Hit, 83=>44
+Process B, TLB Miss, Page Fault, 45, Evict -1 of Process B to -1, 30<<-1
+Process B, TLB Hit, 30=>45
+Process B, TLB Miss, Page Fault, 46, Evict -1 of Process B to -1, 57<<-1
+Process B, TLB Hit, 57=>46
+Process B, TLB Hit, 79=>38
+Process B, TLB Miss, Page Fault, 47, Evict -1 of Process B to -1, 36<<-1
+Process B, TLB Hit, 36=>47
+Process B, TLB Hit, 43=>31
+Process B, TLB Miss, Page Fault, 48, Evict -1 of Process B to -1, 17<<-1
+Process B, TLB Hit, 17=>48
+Process B, TLB Miss, Page Fault, 49, Evict -1 of Process B to -1, 39<<-1
+Process B, TLB Hit, 39=>49
+Process B, TLB Miss, Page Fault, 50, Evict -1 of Process B to -1, 24<<-1
+Process B, TLB Hit, 24=>50
+Process B, TLB Miss, Page Fault, 51, Evict -1 of Process B to -1, 86<<-1
+Process B, TLB Hit, 86=>51
+Process B, TLB Hit, 43=>31
+Process B, TLB Hit, 79=>38
+Process B, TLB Hit, 98=>34
+Process B, TLB Miss, Page Fault, 52, Evict -1 of Process B to -1, 62<<-1
+Process B, TLB Hit, 62=>52
+Process B, TLB Miss, Page Fault, 53, Evict -1 of Process B to -1, 32<<-1
+Process B, TLB Hit, 32=>53
+Process B, TLB Miss, Page Fault, 54, Evict -1 of Process B to -1, 10<<-1
+Process B, TLB Hit, 10=>54
+Process B, TLB Hit, 34=>33
+Process B, TLB Hit, 71=>42
+Process B, TLB Miss, Page Fault, 55, Evict -1 of Process B to -1, 41<<-1
+Process B, TLB Hit, 41=>55
+Process B, TLB Miss, Page Fault, 56, Evict -1 of Process B to -1, 40<<-1
+Process B, TLB Hit, 40=>56
+Process B, TLB Miss, Page Fault, 57, Evict -1 of Process B to -1, 3<<-1
+Process B, TLB Hit, 3=>57
+Process B, TLB Miss, Page Fault, 58, Evict -1 of Process B to -1, 76<<-1
+Process B, TLB Hit, 76=>58
+Process B, TLB Miss, Page Fault, 59, Evict -1 of Process B to -1, 16<<-1
+Process B, TLB Hit, 16=>59
+Process B, TLB Miss, Page Fault, 60, Evict -1 of Process B to -1, 94<<-1
+Process B, TLB Hit, 94=>60
+Process B, TLB Miss, Page Fault, 61, Evict -1 of Process B to -1, 91<<-1
+Process B, TLB Hit, 91=>61
+Process B, TLB Hit, 41=>55
+Process B, TLB Miss, Page Fault, 62, Evict -1 of Process B to -1, 35<<-1
+Process B, TLB Hit, 35=>62
+Process B, TLB Miss, Page Fault, 63, Evict -1 of Process B to -1, 2<<-1
+Process B, TLB Hit, 2=>63
+Process B, TLB Miss, Page Fault, 30, Evict 53 of Process B to 0, 38<<-1
+Process B, TLB Hit, 38=>30
+Process B, TLB Miss, Page Fault, 31, Evict 43 of Process B to 1, 45<<-1
+Process B, TLB Hit, 45=>31
+Process B, TLB Miss, Page Fault, 32, Evict 97 of Process B to 2, 15<<-1
+Process B, TLB Hit, 15=>32
+Process B, TLB Hit, 87=>39
+Process B, TLB Miss, Page Fault, 33, Evict 34 of Process B to 3, 26<<-1
+Process B, TLB Hit, 26=>33
+Process B, TLB Miss, Page Fault, 34, Evict 98 of Process B to 4, 88<<-1
+Process B, TLB Hit, 88=>34
+Process B, TLB Miss, Page Fault, 35, Evict 75 of Process B to 5, 48<<-1
+Process B, TLB Hit, 48=>35
+Process B, TLB Hit, 20=>41
+Process B, TLB Miss, Page Fault, 36, Evict 22 of Process B to 6, 28<<-1
+Process B, TLB Hit, 28=>36
+Process B, TLB Hit, 94=>60
+Process B, TLB Hit, 79=>38
+Process B, TLB Miss, Page Fault, 37, Evict 58 of Process B to 7, 8<<-1
+Process B, TLB Hit, 8=>37
+Process B, TLB Miss, Page Fault, 38, Evict 79 of Process B to 8, 70<<-1
+Process B, TLB Hit, 70=>38
+Process B, TLB Miss, Page Hit, 55=>43
+Process B, TLB Hit, 55=>43
+Process B, TLB Miss, Page Fault, 39, Evict 87 of Process B to 9, 47<<-1
+Process B, TLB Hit, 47=>39
+Process B, TLB Miss, Page Fault, 40, Evict 67 of Process B to 10, 97<<2
+Process B, TLB Hit, 97=>40
+Process B, TLB Miss, Page Fault, 41, Evict 20 of Process B to 2, 63<<-1
+Process B, TLB Hit, 63=>41
+Process B, TLB Hit, 16=>59
+Process B, TLB Miss, Page Fault, 42, Evict 71 of Process B to 11, 12<<-1
+Process B, TLB Hit, 12=>42
+Process B, TLB Miss, Page Hit, 83=>44
+Process B, TLB Hit, 83=>44
+Process B, TLB Miss, Page Fault, 43, Evict 55 of Process B to 12, 29<<-1
+Process B, TLB Hit, 29=>43
+Process B, TLB Hit, 88=>34
+Process B, TLB Miss, Page Fault, 44, Evict 83 of Process B to 13, 96<<-1
+Process B, TLB Hit, 96=>44
+Process B, TLB Hit, 88=>34
+Process B, TLB Miss, Page Fault, 45, Evict 30 of Process B to 14, 50<<-1
+Process B, TLB Hit, 50=>45
+Process B, TLB Miss, Page Fault, 46, Evict 57 of Process B to 15, 108<<-1
+Process B, TLB Hit, 108=>46
+Process A, TLB Miss, Page Fault, 0, Evict 71 of Process A to 16, 85<<-1
+Process A, TLB Hit, 85=>0
+Process A, TLB Miss, Page Fault, 1, Evict 58 of Process A to 17, 22<<-1
+Process A, TLB Hit, 22=>1
+Process A, TLB Miss, Page Hit, 44=>18
+Process A, TLB Hit, 44=>18
+Process A, TLB Miss, Page Fault, 2, Evict 89 of Process A to 18, 21<<-1
+Process A, TLB Hit, 21=>2
+Process A, TLB Miss, Page Fault, 3, Evict 91 of Process A to 19, 17<<-1
+Process A, TLB Hit, 17=>3
+Process A, TLB Miss, Page Fault, 4, Evict 11 of Process A to 20, 79<<-1
+Process A, TLB Hit, 79=>4
+Process A, TLB Miss, Page Fault, 5, Evict 80 of Process A to 21, 42<<-1
+Process A, TLB Hit, 42=>5
+Process A, TLB Miss, Page Fault, 6, Evict 62 of Process A to 22, 37<<-1
+Process A, TLB Hit, 37=>6
+Process A, TLB Miss, Page Hit, 23=>25
+Process A, TLB Hit, 23=>25
+Process A, TLB Miss, Page Fault, 7, Evict 18 of Process A to 23, 57<<-1
+Process A, TLB Hit, 57=>7
+Process A, TLB Miss, Page Fault, 8, Evict 65 of Process A to 24, 48<<-1
+Process A, TLB Hit, 48=>8
+Process A, TLB Miss, Page Fault, 9, Evict 53 of Process A to 25, 101<<-1
+Process A, TLB Hit, 101=>9
+Process A, TLB Miss, Page Fault, 10, Evict 33 of Process A to 26, 67<<-1
+Process A, TLB Hit, 67=>10
+Process A, TLB Miss, Page Fault, 11, Evict 16 of Process A to 27, 86<<-1
+Process A, TLB Hit, 86=>11
+Process A, TLB Hit, 17=>3
+Process A, TLB Miss, Page Hit, 32=>15
+Process A, TLB Hit, 32=>15
+Process A, TLB Miss, Page Hit, 34=>14
+Process A, TLB Hit, 34=>14
+Process A, TLB Miss, Page Fault, 12, Evict 68 of Process A to 28, 49<<-1
+Process A, TLB Hit, 49=>12
+Process A, TLB Miss, Page Hit, 61=>27
+Process A, TLB Hit, 61=>27
+Process A, TLB Miss, Page Fault, 13, Evict 54 of Process A to 29, 65<<24
+Process A, TLB Hit, 65=>13
+Process A, TLB Miss, Page Fault, 14, Evict 34 of Process A to 24, 26<<-1
+Process A, TLB Hit, 26=>14
+Process A, TLB Miss, Page Fault, 15, Evict 32 of Process A to 30, 13<<-1
+Process A, TLB Hit, 13=>15
+Process A, TLB Miss, Page Fault, 16, Evict 93 of Process A to 31, 82<<-1
+Process A, TLB Hit, 82=>16
+Process A, TLB Miss, Page Fault, 17, Evict 4 of Process A to 32, 56<<-1
+Process A, TLB Hit, 56=>17
+Process A, TLB Miss, Page Fault, 18, Evict 44 of Process A to 33, 51<<-1
+Process A, TLB Hit, 51=>18
+Process A, TLB Miss, Page Hit, 3=>23
+Process A, TLB Hit, 3=>23
+Process A, TLB Miss, Page Fault, 19, Evict 10 of Process A to 34, 69<<-1
+Process A, TLB Hit, 69=>19
+Process A, TLB Hit, 57=>7
+Process A, TLB Miss, Page Fault, 20, Evict 87 of Process A to 35, 9<<-1
+Process A, TLB Hit, 9=>20
+Process A, TLB Miss, Page Fault, 21, Evict 88 of Process A to 36, 94<<-1
+Process A, TLB Hit, 94=>21
+Process A, TLB Hit, 42=>5
+Process A, TLB Miss, Page Fault, 22, Evict 36 of Process A to 37, 90<<-1
+Process A, TLB Hit, 90=>22
+Process A, TLB Hit, 65=>13
+Process A, TLB Hit, 86=>11
+Process A, TLB Hit, 56=>17
+Process A, TLB Miss, Page Fault, 23, Evict 3 of Process A to 38, 89<<18
+Process A, TLB Hit, 89=>23
+Process A, TLB Miss, Page Fault, 24, Evict 96 of Process A to 18, 75<<-1
+Process A, TLB Hit, 75=>24
+Process A, TLB Miss, Page Fault, 25, Evict 23 of Process A to 39, 53<<25
+Process A, TLB Hit, 53=>25
+Process A, TLB Miss, Page Fault, 26, Evict 81 of Process A to 25, 5<<-1
+Process A, TLB Hit, 5=>26
+Process A, TLB Miss, Page Fault, 27, Evict 61 of Process A to 40, 34<<24
+Process A, TLB Hit, 34=>27
+Process A, TLB Miss, Page Fault, 28, Evict 60 of Process A to 24, 45<<-1
+Process A, TLB Hit, 45=>28
+Process A, TLB Miss, Page Fault, 29, Evict 30 of Process A to 41, 11<<20
+Process A, TLB Hit, 11=>29
+Process A, TLB Miss, Page Fault, 0, Evict 85 of Process A to 20, 83<<-1
+Process A, TLB Hit, 83=>0
+Process A, TLB Hit, 90=>22
+Process A, TLB Miss, Page Fault, 1, Evict 22 of Process A to 42, 74<<-1
+Process A, TLB Hit, 74=>1
+Process A, TLB Miss, Page Fault, 2, Evict 21 of Process A to 43, 63<<-1
+Process A, TLB Hit, 63=>2
+Process A, TLB Miss, Page Fault, 3, Evict 17 of Process A to 44, 30<<41
+Process A, TLB Hit, 30=>3
+Process A, TLB Miss, Page Fault, 4, Evict 79 of Process A to 41, 55<<-1
+Process A, TLB Hit, 55=>4
+Process A, TLB Miss, Page Fault, 5, Evict 42 of Process A to 45, 92<<-1
+Process A, TLB Hit, 92=>5
+Process A, TLB Miss, Page Fault, 6, Evict 37 of Process A to 46, 60<<24
+Process A, TLB Hit, 60=>6
+Process A, TLB Miss, Page Fault, 7, Evict 57 of Process A to 24, 1<<-1
+Process A, TLB Hit, 1=>7
+Process A, TLB Miss, Page Fault, 8, Evict 48 of Process A to 47, 98<<-1
+Process A, TLB Hit, 98=>8
+Process A, TLB Hit, 49=>12
+Process A, TLB Miss, Page Fault, 9, Evict 101 of Process A to 48, 77<<-1
+Process A, TLB Hit, 77=>9
+Process A, TLB Miss, Page Fault, 10, Evict 67 of Process A to 49, 97<<-1
+Process A, TLB Hit, 97=>10
+Process A, TLB Miss, Page Fault, 11, Evict 86 of Process A to 50, 109<<-1
+Process A, TLB Hit, 109=>11
+Process A, TLB Hit, 98=>8
+Process A, TLB Miss, Page Fault, 12, Evict 49 of Process A to 51, 72<<-1
+Process A, TLB Hit, 72=>12
+Process A, TLB Miss, Page Fault, 13, Evict 65 of Process A to 52, 27<<-1
+Process A, TLB Hit, 27=>13
+Process A, TLB Miss, Page Fault, 14, Evict 26 of Process A to 53, 71<<16
+Process A, TLB Hit, 71=>14
+Process A, TLB Miss, Page Fault, 15, Evict 13 of Process A to 16, 22<<42
+Process A, TLB Hit, 22=>15
+Process A, TLB Miss, Page Fault, 16, Evict 82 of Process A to 42, 57<<24
+Process A, TLB Hit, 57=>16
+Process A, TLB Miss, Page Fault, 17, Evict 56 of Process A to 24, 78<<-1
+Process A, TLB Hit, 78=>17
+Process A, TLB Hit, 9=>20
+Process A, TLB Miss, Page Fault, 18, Evict 51 of Process A to 54, 73<<-1
+Process A, TLB Hit, 73=>18
+Process A, TLB Hit, 92=>5
+Process A, TLB Miss, Page Fault, 19, Evict 69 of Process A to 55, 16<<27
+Process A, TLB Hit, 16=>19
+Process A, TLB Miss, Page Fault, 20, Evict 9 of Process A to 27, 99<<-1
+Process A, TLB Hit, 99=>20
+Process A, TLB Miss, Page Fault, 21, Evict 94 of Process A to 56, 50<<-1
+Process A, TLB Hit, 50=>21
+Process A, TLB Miss, Page Fault, 22, Evict 90 of Process A to 57, 25<<-1
+Process A, TLB Hit, 25=>22
+Process A, TLB Miss, Page Fault, 23, Evict 89 of Process A to 58, 82<<42
+Process A, TLB Hit, 82=>23
+Process A, TLB Miss, Page Fault, 24, Evict 75 of Process A to 42, 67<<49
+Process A, TLB Hit, 67=>24
+Process A, TLB Miss, Page Fault, 25, Evict 53 of Process A to 49, 62<<22
+Process A, TLB Hit, 62=>25
+Process A, TLB Miss, Page Fault, 26, Evict 5 of Process A to 22, 17<<44
+Process A, TLB Hit, 17=>26
+Process A, TLB Hit, 73=>18
+Process A, TLB Hit, 16=>19
+Process A, TLB Hit, 25=>22
+Process A, TLB Miss, Page Fault, 27, Evict 34 of Process A to 44, 37<<46
+Process A, TLB Hit, 37=>27
+Process A, TLB Miss, Page Fault, 28, Evict 45 of Process A to 46, 8<<-1
+Process A, TLB Hit, 8=>28
+Process A, TLB Miss, Page Fault, 29, Evict 11 of Process A to 59, 20<<-1
+Process A, TLB Hit, 20=>29
+Process A, TLB Miss, Page Fault, 0, Evict 83 of Process A to 60, 56<<24
+Process A, TLB Hit, 56=>0
+Process A, TLB Hit, 72=>12
+Process A, TLB Miss, Page Fault, 1, Evict 74 of Process A to 24, 2<<-1
+Process A, TLB Hit, 2=>1
+Process A, TLB Miss, Page Fault, 2, Evict 63 of Process A to 61, 31<<-1
+Process A, TLB Hit, 31=>2
+Process A, TLB Hit, 31=>2
+Process A, TLB Hit, 78=>17
+Process A, TLB Miss, Page Fault, 3, Evict 30 of Process A to 62, 86<<50
+Process A, TLB Hit, 86=>3
+Process A, TLB Hit, 97=>10
+Process A, TLB Miss, Page Fault, 4, Evict 55 of Process A to 50, 80<<21
+Process A, TLB Hit, 80=>4
+Process A, TLB Miss, Page Fault, 5, Evict 92 of Process A to 21, 70<<-1
+Process A, TLB Hit, 70=>5
+Process A, TLB Hit, 16=>19
+Process A, TLB Miss, Page Fault, 6, Evict 60 of Process A to 63, 46<<-1
+Process A, TLB Hit, 46=>6
+Process A, TLB Miss, Page Fault, 7, Evict 1 of Process A to 64, 32<<30
+Process A, TLB Hit, 32=>7
+Process A, TLB Miss, Page Fault, 8, Evict 98 of Process A to 30, 87<<35
+Process A, TLB Hit, 87=>8
+Process A, TLB Miss, Page Fault, 9, Evict 77 of Process A to 35, 35<<-1
+Process A, TLB Hit, 35=>9
+Process A, TLB Miss, Page Fault, 10, Evict 97 of Process A to 65, 18<<23
+Process A, TLB Hit, 18=>10
+Process A, TLB Hit, 50=>21
+Process A, TLB Miss, Page Fault, 11, Evict 109 of Process A to 23, 66<<-1
+Process A, TLB Hit, 66=>11
+Process A, TLB Miss, Page Fault, 12, Evict 72 of Process A to 66, 36<<37
+Process A, TLB Hit, 36=>12
+Process A, TLB Miss, Page Fault, 13, Evict 27 of Process A to 37, 33<<26
+Process A, TLB Hit, 33=>13
+Process A, TLB Miss, Page Fault, 14, Evict 71 of Process A to 26, 74<<24
+Process A, TLB Hit, 74=>14
+Process A, TLB Miss, Page Fault, 15, Evict 22 of Process A to 24, 43<<-1
+Process A, TLB Hit, 43=>15
+Process B, TLB Miss, Page Fault, 47, Evict 36 of Process B to 67, 71<<11
+Process B, TLB Hit, 71=>47
+Process B, TLB Miss, Page Fault, 48, Evict 17 of Process B to 11, 55<<12
+Process B, TLB Hit, 55=>48
+Process B, TLB Miss, Page Hit, 91=>61
+Process B, TLB Hit, 91=>61
+Process B, TLB Miss, Page Hit, 70=>38
+Process B, TLB Hit, 70=>38
+Process B, TLB Miss, Page Fault, 49, Evict 39 of Process B to 12, 52<<-1
+Process B, TLB Hit, 52=>49
+Process B, TLB Miss, Page Hit, 96=>44
+Process B, TLB Hit, 96=>44
+Process B, TLB Miss, Page Fault, 50, Evict 24 of Process B to 68, 92<<-1
+Process B, TLB Hit, 92=>50
+Process B, TLB Miss, Page Hit, 29=>43
+Process B, TLB Hit, 29=>43
+Process B, TLB Miss, Page Fault, 51, Evict 86 of Process B to 69, 123<<-1
+Process B, TLB Hit, 123=>51
+Process B, TLB Miss, Page Fault, 52, Evict 62 of Process B to 70, 98<<4
+Process B, TLB Hit, 98=>52
+Process B, TLB Miss, Page Fault, 53, Evict 32 of Process B to 4, 82<<-1
+Process B, TLB Hit, 82=>53
+Process B, TLB Hit, 82=>53
+Process B, TLB Miss, Page Hit, 76=>58
+Process B, TLB Hit, 76=>58
+Process B, TLB Miss, Page Fault, 54, Evict 10 of Process B to 71, 43<<1
+Process B, TLB Hit, 43=>54
+Process B, TLB Miss, Page Hit, 45=>31
+Process B, TLB Hit, 45=>31
+Process B, TLB Miss, Page Hit, 12=>42
+Process B, TLB Hit, 12=>42
+Process B, TLB Hit, 71=>47
+Process B, TLB Miss, Page Fault, 55, Evict 41 of Process B to 1, 36<<67
+Process B, TLB Hit, 36=>55
+Process B, TLB Miss, Page Fault, 56, Evict 40 of Process B to 67, 27<<-1
+Process B, TLB Hit, 27=>56
+Process B, TLB Miss, Page Fault, 57, Evict 3 of Process B to 72, 93<<-1
+Process B, TLB Hit, 93=>57
+Process B, TLB Hit, 45=>31
+Process B, TLB Hit, 29=>43
+Process B, TLB Miss, Page Fault, 58, Evict 76 of Process B to 73, 1<<-1
+Process B, TLB Hit, 1=>58
+Process B, TLB Miss, Page Fault, 59, Evict 16 of Process B to 74, 9<<-1
+Process B, TLB Hit, 9=>59
+Process B, TLB Miss, Page Fault, 60, Evict 94 of Process B to 75, 23<<-1
+Process B, TLB Hit, 23=>60
+Process B, TLB Miss, Page Fault, 61, Evict 91 of Process B to 76, 19<<-1
+Process B, TLB Hit, 19=>61
+Process B, TLB Hit, 96=>44
+Process B, TLB Miss, Page Fault, 62, Evict 35 of Process B to 77, 7<<-1
+Process B, TLB Hit, 7=>62
+Process B, TLB Miss, Page Fault, 63, Evict 2 of Process B to 78, 80<<-1
+Process B, TLB Hit, 80=>63
+Process B, TLB Miss, Page Fault, 30, Evict 38 of Process B to 79, 37<<-1
+Process B, TLB Hit, 37=>30
+Process B, TLB Miss, Page Fault, 31, Evict 45 of Process B to 80, 3<<72
+Process B, TLB Hit, 3=>31
+Process B, TLB Miss, Page Fault, 32, Evict 15 of Process B to 72, 24<<68
+Process B, TLB Hit, 24=>32
+Process B, TLB Miss, Page Fault, 33, Evict 26 of Process B to 68, 86<<69
+Process B, TLB Hit, 86=>33
+Process B, TLB Hit, 52=>49
+Process B, TLB Miss, Page Fault, 34, Evict 88 of Process B to 69, 13<<-1
+Process B, TLB Hit, 13=>34
+Process B, TLB Hit, 37=>30
+Process B, TLB Hit, 52=>49
+Process B, TLB Miss, Page Fault, 35, Evict 48 of Process B to 81, 22<<6
+Process B, TLB Hit, 22=>35
+Process B, TLB Miss, Page Fault, 36, Evict 28 of Process B to 6, 4<<-1
+Process B, TLB Hit, 4=>36
+Process B, TLB Hit, 37=>30
+Process B, TLB Hit, 86=>33
+Process B, TLB Miss, Page Fault, 37, Evict 8 of Process B to 82, 84<<-1
+Process B, TLB Hit, 84=>37
+Process B, TLB Miss, Page Fault, 38, Evict 70 of Process B to 83, 10<<71
+Process B, TLB Hit, 10=>38
+Process B, TLB Miss, Page Fault, 39, Evict 47 of Process B to 71, 8<<82
+Process B, TLB Hit, 8=>39
+Process B, TLB Miss, Page Fault, 40, Evict 97 of Process B to 82, 31<<-1
+Process B, TLB Hit, 31=>40
+Process B, TLB Hit, 12=>42
+Process B, TLB Miss, Page Fault, 41, Evict 63 of Process B to 84, 53<<0
+Process B, TLB Hit, 53=>41
+Process B, TLB Miss, Page Fault, 42, Evict 12 of Process B to 0, 64<<-1
+Process B, TLB Hit, 64=>42
+Process B, TLB Hit, 64=>42
+Process B, TLB Miss, Page Fault, 43, Evict 29 of Process B to 85, 59<<-1
+Process B, TLB Hit, 59=>43
+Process B, TLB Miss, Page Fault, 44, Evict 96 of Process B to 86, 12<<0
+Process B, TLB Hit, 12=>44
+Process B, TLB Hit, 27=>56
+Process B, TLB Hit, 92=>50
+Process B, TLB Miss, Page Fault, 45, Evict 50 of Process B to 0, 16<<74
+Process B, TLB Hit, 16=>45
+Process B, TLB Miss, Page Fault, 46, Evict 108 of Process B to 74, 38<<79
+Process B, TLB Hit, 38=>46
+Process B, TLB Miss, Page Fault, 47, Evict 71 of Process B to 79, 94<<75
+Process B, TLB Hit, 94=>47
+Process B, TLB Hit, 4=>36
+Process B, TLB Hit, 92=>50
+Process B, TLB Miss, Page Fault, 48, Evict 55 of Process B to 75, 18<<-1
+Process B, TLB Hit, 18=>48
+Process B, TLB Hit, 37=>30
+Process B, TLB Miss, Page Fault, 49, Evict 52 of Process B to 87, 5<<-1
+Process B, TLB Hit, 5=>49
+Process B, TLB Miss, Page Fault, 50, Evict 92 of Process B to 88, 15<<72
+Process B, TLB Hit, 15=>50
+Process B, TLB Miss, Page Fault, 51, Evict 123 of Process B to 72, 61<<-1
+Process B, TLB Hit, 61=>51
+Process B, TLB Miss, Page Fault, 52, Evict 98 of Process B to 89, 45<<80
+Process B, TLB Hit, 45=>52
+Process B, TLB Miss, Page Fault, 53, Evict 82 of Process B to 80, 14<<-1
+Process B, TLB Hit, 14=>53
+Process B, TLB Miss, Page Fault, 54, Evict 43 of Process B to 90, 35<<77
+Process B, TLB Hit, 35=>54
+Process B, TLB Miss, Page Fault, 55, Evict 36 of Process B to 77, 71<<79
+Process B, TLB Hit, 71=>55
+Process B, TLB Hit, 31=>40
+Process B, TLB Miss, Page Fault, 56, Evict 27 of Process B to 79, 51<<-1
+Process B, TLB Hit, 51=>56
+Process B, TLB Miss, Page Fault, 57, Evict 93 of Process B to 91, 48<<81
+Process B, TLB Hit, 48=>57
+Process B, TLB Miss, Page Fault, 58, Evict 1 of Process B to 81, 34<<3
+Process B, TLB Hit, 34=>58
+Process B, TLB Miss, Page Fault, 59, Evict 9 of Process B to 3, 57<<15
+Process B, TLB Hit, 57=>59
+Process B, TLB Miss, Page Fault, 60, Evict 23 of Process B to 15, 69<<-1
+Process B, TLB Hit, 69=>60
+Process B, TLB Miss, Page Fault, 61, Evict 19 of Process B to 92, 103<<-1
+Process B, TLB Hit, 103=>61
+Process B, TLB Miss, Page Fault, 62, Evict 7 of Process B to 93, 44<<-1
+Process B, TLB Hit, 44=>62
+Process B, TLB Miss, Page Fault, 63, Evict 80 of Process B to 94, 11<<-1
+Process B, TLB Hit, 11=>63
+Process B, TLB Miss, Page Fault, 30, Evict 37 of Process B to 95, 85<<-1
+Process B, TLB Hit, 85=>30
+Process B, TLB Hit, 10=>38
+Process B, TLB Miss, Page Fault, 31, Evict 3 of Process B to 96, 56<<-1
+Process B, TLB Hit, 56=>31
+Process B, TLB Miss, Page Fault, 32, Evict 24 of Process B to 97, 98<<89
+Process B, TLB Hit, 98=>32
+Process B, TLB Miss, Page Fault, 33, Evict 86 of Process B to 89, 97<<82
+Process B, TLB Hit, 97=>33
+Process B, TLB Miss, Page Fault, 34, Evict 13 of Process B to 82, 80<<94
+Process B, TLB Hit, 80=>34
+Process B, TLB Miss, Page Fault, 35, Evict 22 of Process B to 94, 65<<-1
+Process B, TLB Hit, 65=>35
+Process B, TLB Miss, Page Fault, 36, Evict 4 of Process B to 98, 68<<-1
+Process B, TLB Hit, 68=>36
+Process B, TLB Miss, Page Fault, 37, Evict 84 of Process B to 99, 72<<-1
+Process B, TLB Hit, 72=>37
+Process B, TLB Miss, Page Fault, 38, Evict 10 of Process B to 100, 93<<91
+Process B, TLB Hit, 93=>38
+Process B, TLB Hit, 51=>56
+Process B, TLB Miss, Page Fault, 39, Evict 8 of Process B to 91, 76<<73
+Process B, TLB Hit, 76=>39
+Process B, TLB Miss, Page Fault, 40, Evict 31 of Process B to 73, 9<<3
+Process B, TLB Hit, 9=>40
+Process B, TLB Miss, Page Fault, 41, Evict 53 of Process B to 3, 83<<13
+Process B, TLB Hit, 83=>41
+Process B, TLB Miss, Page Fault, 42, Evict 64 of Process B to 13, 70<<83
+Process B, TLB Hit, 70=>42
+Process B, TLB Miss, Page Fault, 43, Evict 59 of Process B to 83, 66<<-1
+Process B, TLB Hit, 66=>43
+Process B, TLB Miss, Page Fault, 44, Evict 12 of Process B to 101, 55<<75
+Process B, TLB Hit, 55=>44
+Process B, TLB Hit, 9=>40
+Process B, TLB Hit, 11=>63
+Process B, TLB Miss, Page Fault, 45, Evict 16 of Process B to 75, 91<<76
+Process B, TLB Hit, 91=>45
+Process B, TLB Hit, 18=>48
+Process B, TLB Hit, 72=>37
+Process B, TLB Miss, Page Fault, 46, Evict 38 of Process B to 76, 29<<85
+Process B, TLB Hit, 29=>46
+Process B, TLB Hit, 15=>50
+Process B, TLB Hit, 44=>62
+Process B, TLB Miss, Page Hit, 94=>47
+Process B, TLB Hit, 94=>47
